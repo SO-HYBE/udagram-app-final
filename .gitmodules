@@ -1,0 +1,3 @@
+[submodule "udagram/udagram-api~"]
+	path = udagram/udagram-api~
+	url = https://github.com/SO-HYBE/udagram-app-for-udacity
