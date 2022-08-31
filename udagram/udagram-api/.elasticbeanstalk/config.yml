@@ -1,6 +1,8 @@
 branch-defaults:
   default:
     environment: Udacityapi-env
+  master:
+    environment: Udacityapi-env
 environment-defaults:
   Udacityapi-env:
     branch: default
