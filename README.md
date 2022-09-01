@@ -2,9 +2,9 @@
 
 <h2>This is the circleci project pipeline passed status.</h2>
 
-[![CircleCI](https://circleci.com/gh/circleci/udagram-app-final.svg?style=svg)](https://app.circleci.com/pipelines/github/SO-HYBE/udagram-app-final/1/workflows/80029656-6db4-4907-9e8b-2a0ab735802f)
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/SO-HYBE/udagram-app-final/tree/master.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/SO-HYBE/udagram-app-final/tree/master)
 
-![circleci](https://user-images.githubusercontent.com/44274982/187129284-8b700e33-3cf2-4018-b259-23ae2a27bd00.PNG)
+
 
 ```
 {
