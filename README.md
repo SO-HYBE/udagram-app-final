@@ -4,7 +4,8 @@
 
 [![CircleCI](https://dl.circleci.com/status-badge/img/gh/SO-HYBE/udagram-app-final/tree/master.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/SO-HYBE/udagram-app-final/tree/master)
 
-![pipeline success](https://user-images.githubusercontent.com/44274982/187817015-a77a7481-32aa-4316-b1fd-88327391d905.PNG)
+![deploy success](https://user-images.githubusercontent.com/44274982/187818053-6c0aa7e7-1192-4599-850e-e402afe3020c.PNG)
+
 
 ```
 {
