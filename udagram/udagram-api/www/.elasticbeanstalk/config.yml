@@ -1,0 +1,21 @@
+branch-defaults:
+  default:
+    environment: Udacityapi-env
+  master:
+    environment: Udacityapi-env
+environment-defaults:
+  Udacityapi-env:
+    branch: null
+    repository: null
+global:
+  application_name: udacity-api
+  default_ec2_keyname: null
+  default_platform: Node.js 16 running on 64bit Amazon Linux 2
+  default_region: us-east-1
+  include_git_submodules: true
+  instance_profile: null
+  platform_name: null
+  platform_version: null
+  profile: default
+  sc: git
+  workspace_type: Application
